@@ -72,5 +72,3 @@
 <h2 align="center">🔮 Connect & Join the Journey</h2>  <p align="center"> <a href="https://twitter.com/Quantumlearner_" target="_blank"><img src="https://img.shields.io/twitter/follow/Quantumlearner_?style=social" alt="Twitter" /></a> <a href="https://www.linkedin.com/in/aman-singh-a00637208/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.kaggle.com/amansingh2130" target="_blank"><img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> <a  href="mailto:asingh97781@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> </p>
 
 ----------
-
-<i><p align="center">Let's embark on a grand adventure through the mystical realm of Data Science! 🌍🔍📊📈🤖</p></i>
