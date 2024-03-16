@@ -60,7 +60,7 @@
 
 <h2 align="center">📈 GitHub Stats</h2>  
 
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman977381&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="420" /> <img src="https://github-readme-stats.vercel.app/api?username=aman977381&show_icons=true&hide_border=truetheme=tokyonight" alt="GitHub Stats" />  </p>
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman977381&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="420" /> <img src="https://github-readme-stats.vercel.app/api?username=aman977381&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />  </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman977381&theme=tokyonight" alt="mystreak"/> </p> 
 
