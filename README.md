@@ -1,8 +1,10 @@
-<h2>Hey there 👋</h2>
+<p align="center"> <img src="python-2.gif" alt="Data Science GIF" width="400" /> </p> 
+
+<h2 align="center"> Hey there 👋</h2> 
 <b>Happy to see you here!   </b>
 <br>
 <br>
-<p>I am Aman Singh,I'm a passionate ML engineer currently contributing to open source projects to gain more knowledge and engage within the community. 🚀</p>
+<p>I am Aman Singh, I'm a passionate ML engineer currently contributing to open source projects to gain more knowledge and engage within the community. 🚀</p>
 <p>I thrive on problem-solving and innovative thinking, driven by purpose and the challenge of finding solutions. With expertise in Python, Pandas, Numpy, Sklearn, Tensorflow, OpenCV, and more. Passionate about building scalable products from scratch to make a positive impact through technology.</p>
 <p>Outside of coding, I'm an eager explorer of new tech and a continuous learner. In recent time, I've been focused on programming, building and creating exciting projects that solve real-world problems.</p>
 
@@ -58,13 +60,13 @@
 
 <h2 align="center">📈 GitHub Stats</h2>  
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman977381&layout=compact&hide_border=true" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=aman977381&show_icons=true&hide_border=true" alt="GitHub Stats" /> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman977381&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="420" /> <img src="https://github-readme-stats.vercel.app/api?username=aman977381&show_icons=true&hide_border=truetheme=tokyonight" alt="GitHub Stats" />  </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman977381&theme=tokyonight" alt="mystreak"/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman977381&theme=tokyonight" alt="mystreak"/> </p> 
 
 -----------
 
+![Snake animation](https://github.com/aman977381/aman977381/blob/output/github-contribution-grid-snake-dark.svg)
 
 ----------
 
